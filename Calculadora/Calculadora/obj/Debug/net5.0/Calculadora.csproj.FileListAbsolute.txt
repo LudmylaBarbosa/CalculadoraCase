@@ -1,0 +1,15 @@
+C:\Users\Ludimyla\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludimyla\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Ludimyla\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\Ludimyla\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Ludimyla\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.exe
+C:\Users\Ludimyla\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\Ludimyla\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+C:\Users\Ludimyla\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+C:\Users\Ludimyla\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\Ludimyla\Calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\Ludimyla\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\Ludimyla\Calculadora\Calculadora\obj\Debug\net5.0\refint\Calculadora.dll
+C:\Users\Ludimyla\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
+C:\Users\Ludimyla\Calculadora\Calculadora\obj\Debug\net5.0\Calculadora.genruntimeconfig.cache
+C:\Users\Ludimyla\Calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
